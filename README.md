@@ -1,5 +1,7 @@
 # 🎁 shophub – Built with Catalyst
 
+**Video**: [Video](https://drive.google.com/file/d/1Yy7CT2cCchIzEhRS524EjyrdrRTLB7ZV/view?usp=sharing)
+
 **shophub** is a vibrant, server-side rendered web application built using **Catalyst**, designed to help users explore and select meaningful gifts for any occasion. With elegant animations, smooth transitions, and a focus on user experience, this app makes gift discovery delightful.
 
 From birthdays to holidays, shophub offers an inspiring interface where users can browse categories, view curated suggestions, and explore gift details with ease. Built using modern SSR principles, it ensures both speed and scalability.
@@ -8,7 +10,7 @@ From birthdays to holidays, shophub offers an inspiring interface where users ca
 
 ## ✨ What Makes It Special
 
-- Built with **Catalyst**, a modern SSR React framework  
+- Built with **Catalyst**
 - Thoughtfully designed to provide a **delightful gifting experience**  
 - Lightweight, fast, and optimized for **performance and SEO**  
 - Enhanced with **GSAP animations** and dynamic UI components  
