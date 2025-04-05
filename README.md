@@ -1,6 +1,6 @@
 # 🎁 shophub – Built with Catalyst
 
-**Video**: [Video](https://drive.google.com/file/d/1Yy7CT2cCchIzEhRS524EjyrdrRTLB7ZV/view?usp=sharing)
+**Video**: [Video](https://drive.google.com/file/d/1OewGbQQ-UvyFbnJLqu-Sy6Fx7JMFySkm/view?usp=sharing)
 
 **shophub** is a vibrant, server-side rendered web application built using **Catalyst**, designed to help users explore and select meaningful gifts for any occasion. With elegant animations, smooth transitions, and a focus on user experience, this app makes gift discovery delightful.
 
