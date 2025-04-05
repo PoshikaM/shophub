@@ -2,7 +2,7 @@
 
 **shophub** is a vibrant, server-side rendered web application built using **Catalyst**, designed to help users explore and select meaningful gifts for any occasion. With elegant animations, smooth transitions, and a focus on user experience, this app makes gift discovery delightful.
 
-From birthdays to holidays, UnboxMagic offers an inspiring interface where users can browse categories, view curated suggestions, and explore gift details with ease. Built using modern SSR principles, it ensures both speed and scalability.
+From birthdays to holidays, shophub offers an inspiring interface where users can browse categories, view curated suggestions, and explore gift details with ease. Built using modern SSR principles, it ensures both speed and scalability.
 
 ---
 
